@@ -14,17 +14,17 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /text-analysis
 # location of code, the full url to your github repository
-source-code: https://github.com/learn-static/text-analysis
+source-code: https://github.com/robi0847/hist320project
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Analyzing Political Text of The 20th Century
+title: 20th Century Politics in the United States
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A multimedia project for HIST 320, a Spring 2022 course at the University of Idaho
+tagline: My History 320 project
 # creator of the digital project, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: collectionbuilder
+author: Jay Robinson
 
 # collection
 collections:
