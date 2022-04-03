@@ -8,6 +8,8 @@ permalink: /essay-01.html
 
 # US Foreign Policy in the 20th Century
 
+Foriegn policy in the United States throughout the 20th century varied greatly.  From the US not wanting to get involved in the first and second World Wars to the Cold War and many other foreign interests the United States' foreign policy truly had great impacts on the world as a whole.
+
 ## Introduction
 
 Here's some sample text, written in Markdown.
