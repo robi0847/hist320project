@@ -27,15 +27,14 @@ For a while the United States attempted to stay out of overseas conflict but eve
 
 The period between the World Wars saw the United States return to a more isolationist mindset.  The Great Depression greatly hurt the United States’ worldwide empire that had been established at the beginning of the 20th century.  For apparent reasons the U.S. had to focus more inwardly at this time but there was still a necessity for the United States to interact with foreign nations.  One positive thing that came out of the foriegn policy at this time was the Good Neighbor Policy.  This policy helped to improve relations with the United States’ Southern neighbors in Mexico and Latin America.  For obvious reasons it was beneficial for the United States to improve relations with these countries especially since the Great Depression had crippled the United States economically.  
 	After the trying times of the Great Depression the U.S. was once again thrust into an unwanted conflict, another World War.  Once again the United States attempted to remain neutral but were drawn into war because of actions outside of their own.  The sudden attack on Pearl Harbor by the Japanese stunned the United States and pushed them once again to war.  The attack occurred on December 7, 1941 killing many American troops and demolishing the American naval fleet there.  According to the book These United States: A Nation in the Making, “The Japanese used the advantage of surprise to fan out quickly over the Pacific and secure sorely needed rubber and oil resources” (Gilmore and Sugrue, 231).  These events would ultimately backfire for the Axis as the United States quickly mobilized and was prepared for war extremely quickly.
+The war between the Axis and the Allies quickly began to heat up.  The United States and its allies invaded Europe on D Day and eventually overthrew the Nazis in Germany.  With the threat of the Nazis eliminated the United States was able to focus on Japan.  They were soon defeated after the United States when they dropped two nuclear bombs on Japan, one on Hiroshima and another on Nagasaki.  The bombing of Japan marked a great change in U.S. foreign policy.  Nuclear weapons would change the world for the rest of the century.
 
 
 ## The Cold War
 
 
-
 ## Conclusion
-
-More documentation on how to write your essay in Markdown--as well as how to include images, pdfs, and topic visualizations--can be found at <https://learn-static.github.io/hist-320/topic-modeling.html>.
+The foriegn policy of the United States in the 20th century helped to shape the world as we know it.  From Amricas expansion at the beginning of the century as they slowly became a global power to the Cold War between the United States and Russia as well as China.  The United States changed the world for better or worse depending on the event.  The U.S. will always be remembered for its actions during this time and how they shaped the world each of us lives in today.  
 
 ### Bibliography
 
