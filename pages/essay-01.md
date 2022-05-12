@@ -12,18 +12,9 @@ Foriegn policy in the United States throughout the 20th century varied greatly. 
 
 ## Introduction
 
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
+Foreign policy in the United States has greatly changed over the course of the 20th century.  In the beginning of the book These United States: a Nation in the Making from authors Glenda Elizabeth Gilmore and Thomas J. Sugrue the United States is cautious of the outside world.  As the 20th century moved forward the United States wished to remain out of conflict with Europe but quickly realized that this was impossible when the U.S. entered into World War I and World War II.  Later in the century the United States saw fit to become more involved in foreign affairs through involvement in Korea and Vietnam.  After the Second World War the United states was embroiled in the Cold War which led to involvement in South America, the Middle East and Asia.  Foreign policy changed greatly over the course of the 20th century both in military and economic involvement. 
 
-Leave an empty line between headings and paragraphs.
-
-Font can be *Italic* or **Bold**.
-
-Citing your work is important! [^1]
-
-Title sections of your essay with headings, by adding a pound sign (`#`) in front of the title:
-
-# Heading One
+# 
 
 ## Heading Two
 
