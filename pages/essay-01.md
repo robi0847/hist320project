@@ -28,37 +28,18 @@ For a while the United States attempted to stay out of overseas conflict but eve
 The period between the World Wars saw the United States return to a more isolationist mindset.  The Great Depression greatly hurt the United States’ worldwide empire that had been established at the beginning of the 20th century.  For apparent reasons the U.S. had to focus more inwardly at this time but there was still a necessity for the United States to interact with foreign nations.  One positive thing that came out of the foriegn policy at this time was the Good Neighbor Policy.  This policy helped to improve relations with the United States’ Southern neighbors in Mexico and Latin America.  For obvious reasons it was beneficial for the United States to improve relations with these countries especially since the Great Depression had crippled the United States economically.  
 	After the trying times of the Great Depression the U.S. was once again thrust into an unwanted conflict, another World War.  Once again the United States attempted to remain neutral but were drawn into war because of actions outside of their own.  The sudden attack on Pearl Harbor by the Japanese stunned the United States and pushed them once again to war.  The attack occurred on December 7, 1941 killing many American troops and demolishing the American naval fleet there.  According to the book These United States: A Nation in the Making, “The Japanese used the advantage of surprise to fan out quickly over the Pacific and secure sorely needed rubber and oil resources” (Gilmore and Sugrue, 231).  These events would ultimately backfire for the Axis as the United States quickly mobilized and was prepared for war extremely quickly.
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
 
-A bullet list is created using `*`, `+`, or `-`, like:
+## The Cold War
 
-- dog
-- cat
-- muffin
 
-A numbered list is created using a number + `.`, like:
-
-1. one
-2. two
-6. three
-2. four
-
-A horizontal line break can be useful for separating content:
-
-----
-
-Include an image:
-
-{% include feature/image.html filename="demo_001.jpg" alt="image of UI Admin building" caption="Historic photo of the University of Idaho campus" width="50" %}
-
-Include a pdf:
-
-{% include feature/pdf.html filename="demo_002.pdf" caption="Historic postcard" width="50" %}
 
 ## Conclusion
 
 More documentation on how to write your essay in Markdown--as well as how to include images, pdfs, and topic visualizations--can be found at <https://learn-static.github.io/hist-320/topic-modeling.html>.
 
-## Notes
+### Bibliography
 
-[^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
+Gilmore, Glenda Elizabeth, and Thomas J. Sugrue. These United States: A Nation in the Making. W.W. Norton & Company, 2016.
+"Home: Library of Congress." The Library of Congress. https://www.loc.gov/.
+"United States Department of State." U.S. Department of State. May 12, 2022. https://www.state.gov/.
+
